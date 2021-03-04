@@ -16,9 +16,9 @@ public class SshdDemo {
 
 	public static void main(String[] args) throws Exception {
 		BasicConfigurator.configure();
-		String username = "ajit";
-		String password = "Shakshikri@2";
-		String host = "192.168.1.48";
+		String username = " ";
+		String password = " ";
+		String host = " ";
 //		String username = "demo";
 //		String password = "password";
 //		String host = "test.rebex.net";

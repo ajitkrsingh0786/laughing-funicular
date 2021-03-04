@@ -19,10 +19,10 @@ import com.jcraft.jsch.Session;
 public class App {
 	public static void main(String[] args) throws Exception {
 		System.out.println("Hello World!");
-		String username = "ajit";
-		String password = "Shakshikri@2";
-		String host = "192.168.1.48";
-		// String host = "115.99.103.210";
+		String username = " ";
+		String password = " ";
+		String host = " ";
+		// String host = " ";
 		int port = 22;
 //		String username = "demo";
 //		String password = "password";
